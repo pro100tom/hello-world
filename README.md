@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hello!
+I am a web developer who loves C#.
